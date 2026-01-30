@@ -227,8 +227,8 @@ export function WhyChooseUsSection() {
               {/* List */}
               <ul className="space-y-4">
                 {[
-                  "20+ years of excellence in real estate",
-                  "50+ successfully completed projects",
+                  "13+ years of excellence in real estate",
+                  "67+ successfully completed projects",
                   "NMRDA & RERA approved developments"
                 ].map((item, i) => (
                   <li key={i} className="flex items-start gap-3 group/item">
