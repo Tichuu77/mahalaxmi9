@@ -143,7 +143,7 @@ export function TestimonialsSection() {
                 <circle cx="50%" cy="50%" r="45%" stroke="#30534A" strokeWidth="3" fill="none" strokeDasharray="283" strokeDashoffset="70" strokeLinecap="round"/>
               </svg>
               <div className="absolute inset-0 flex flex-col items-center justify-center">
-                <div className="text-2xl sm:text-3xl font-black text-[#30534A]">1K+</div>
+                <div className="text-2xl sm:text-3xl font-black text-[#30534A]">17K+</div>
                 <div className="text-[10px] text-gray-500 font-bold">Clients</div>
               </div>
             </div>

@@ -28,7 +28,7 @@ export default function AboutSection() {
   }, [])
 
   const animateCounters = () => {
-    const targets = { projects: 67, clients: 17000, years: 13, sqft: 500 }
+    const targets = { projects: 70, clients: 17000, years: 13, sqft: 500 }
     const duration = 1500 // Reduced from 2000ms
     const steps = 30 // Reduced from 60 for better performance
     const increment = duration / steps
@@ -201,7 +201,7 @@ export default function AboutSection() {
                 <h4 className="text-sm sm:text-base font-bold text-white">Customer First</h4>
               </div>
               <p className="text-xs sm:text-sm text-white/90 leading-relaxed">
-                1000+ satisfied families call our projects home
+                17000+ satisfied families call our projects home
               </p>
             </div>
           </div>

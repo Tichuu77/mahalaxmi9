@@ -134,7 +134,7 @@ export function WhyChooseUsSection() {
                 <div className="relative group">
                   <div className="absolute inset-0 bg-gradient-to-br from-[#30534A] to-[#C9862b] rounded-full blur-lg opacity-40 group-hover:opacity-70 transition-opacity animate-pulse-ring" style={{animationDelay: '1s'}} />
                   <div className="relative w-28 h-28 sm:w-36 sm:h-36 rounded-full bg-gradient-to-br from-[#30534A] to-[#30534A]/90 flex flex-col items-center justify-center shadow-2xl border-4 border-white group-hover:scale-110 transition-all">
-                    <div className="text-3xl sm:text-4xl font-black text-white">67+</div>
+                    <div className="text-3xl sm:text-4xl font-black text-white">70+</div>
                     <div className="text-xs sm:text-sm text-white/80 font-bold">Projects</div>
                   </div>
                 </div>
@@ -228,7 +228,7 @@ export function WhyChooseUsSection() {
               <ul className="space-y-4">
                 {[
                   "13+ years of excellence in real estate",
-                  "67+ successfully completed projects",
+                  "70+ successfully completed projects",
                   "NMRDA & RERA approved developments"
                 ].map((item, i) => (
                   <li key={i} className="flex items-start gap-3 group/item">

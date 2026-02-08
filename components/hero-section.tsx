@@ -171,7 +171,7 @@ export default function HeroSection() {
                 {/* Stat Card 1 */}
                 <div className="col-span-3 sm:col-span-1 bg-white/10 backdrop-blur-md border border-white/20 rounded-2xl p-4 sm:p-5 hover:bg-white/15 transition-all duration-300">
                   <Award className="w-8 h-8 sm:w-10 sm:h-10 text-[#C9862b] mb-2" />
-                  <div className="text-2xl sm:text-3xl font-black text-white">67+</div>
+                  <div className="text-2xl sm:text-3xl font-black text-white">70+</div>
                   <div className="text-xs sm:text-sm text-white/70 mt-1">Projects</div>
                 </div>
 
